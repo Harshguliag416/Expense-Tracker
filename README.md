@@ -8,6 +8,9 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org/downloads)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-lightgrey?style=for-the-badge)](app.py)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00c7b7?style=for-the-badge)](https://radiant-rabanadas-ae2a4c.netlify.app)
+
+▶ **Live demo:** https://radiant-rabanadas-ae2a4c.netlify.app — try it instantly, no install (your data stays in the browser).
 
 </div>
 
@@ -62,6 +65,8 @@ Want to see the dashboard, charts, and trends populated **without typing anythin
 
 1. Open **Settings** (sidebar).
 2. Click **✨ Load Demo Data**.
+
+Prefer not to run anything locally? Open the **[live demo](https://radiant-rabanadas-ae2a4c.netlify.app)** and click *Load Demo Data* — no install needed.
 
 The app instantly seeds **14 sample expenses** across 6 categories and 3 months (Food, Transport, Shopping, Bills, Entertainment, Health). Your KPIs, pie chart, bar chart, monthly trend, and transaction list all fill in right away — perfect for a quick tour or a screenshot.
 
