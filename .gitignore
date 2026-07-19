@@ -25,3 +25,6 @@ Thumbs.db
 
 # ─── Netlify deploy artifact ─────────────────────────────
 deploy.zip
+
+# ─── Netlify CLI local state ─────────────────────────────
+.netlify/
